@@ -1,7 +1,7 @@
 ![logo](https://github.com/vyankycoder/vyankycoder/blob/main/baner.jpeg)
 <h1 align="center">Hi 👋, I'm Kalme vyankatesh</h1>
 <h3 align="center">A passionate Engineering student</h3>
-<img align="right" alt="coding" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw27enFZgjg5MAwyci8Jwx6E&ust=1679134595815000&source=images&cd=vfe&ved=0CBAQjRxqGAoTCKjT9Pvd4v0CFQAAAAAdAAAAABC1BA">
+<img align="right" alt="coding" width=400 src="![new part](https://user-images.githubusercontent.com/109910228/225884632-bd866f82-ab9a-4669-9b52-f091d4cdedee.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyankycoder&label=Profile%20views&color=0e75b6&style=flat" alt="vyankycoder" /> </p>
 
